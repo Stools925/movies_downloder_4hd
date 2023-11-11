@@ -1,8 +1,8 @@
-export const SUBTITLE = "A free clone of LinkTree"
-export const TITLE = "LinkTreeFreeClone"
-export const TAGLINE = "Make your own LinkTree page for free"
+export const SUBTITLE = "Download Movies By Clicking 'Movie Name'"
+export const TITLE = "movies_downloder_4hd"
+export const TAGLINE = "Join Others Source To Download Movies And Series "
 
 // Contacts
-export const contact = "Keep in touch"
-export const phone = "+33600000000"
+export const contact = "Request HERE👇"
+export const Telegram = "https://t.me/+-JzY7uVp4CM0M2Y9"
 export const email = "contact@yoandev.co"
